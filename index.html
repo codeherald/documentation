@@ -16,7 +16,9 @@
       name: 'CodeHerald',
       repo: 'codeherald/documentation',
       logo: '/images/logo.svg',
-      routerMode: 'history',
+      maxLevel: 2,
+      subMaxLevel: 2,
+      loadSidebar: true,
       plugins: [
           function (hook, vm) {
             hook.beforeEach(function (html) {

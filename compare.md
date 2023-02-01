@@ -1,11 +1,11 @@
 # How does it compare to ...
 
-## Github Actions
+## GitHub Actions
 
-- Github Actions is great at running scripts, but can be fiddly to write the
+- GitHub Actions is great at running scripts, but can be fiddly to write the
   yaml. With CodeHerald it is easy to setup complex triggering rules and it can
   dispatch workflows when the rules match.
-- Github Actions live in code and have to be set up individually for each
+- GitHub Actions live in code and have to be set up individually for each
   repository. Meanwhile, CodeHerald can have a single rule listen to multiple
   repositories at once.
 
@@ -16,5 +16,5 @@
   maintenance costs are much lower - the product will also cost comparatively
   less.
 - Big Automation is a powerful one size-fits all solution. CodeHerald narrows
-  down to one specific niche developers and teams using Github.
+  down to one specific niche developers and teams using GitHub.
 

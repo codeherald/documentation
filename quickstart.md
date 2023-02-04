@@ -31,7 +31,7 @@ the checkboxes are ticked. Therefore:
 
 ![New rule name](images/quickstart/new-rule-name.png ':size=600x213')
 
-Now, let's add some conditions. CodeHerald literally listens to Github Webhooks,
+Now, let's add some conditions. CodeHerald literally listens to GitHub Webhooks,
 so you could, in theory, work out which condition fields mean which webhook
 fields. Leave **Match** as "*All Conditions*", and let's add a couple of conditions:
 

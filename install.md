@@ -1,13 +1,13 @@
 # Install CodeHerald
 
-To sign-up on CodeHerald you need to have a Github account and that's it. Press
-"Log in with Github" button. It is used for both - sign-up and sign-in.
+To sign-up on CodeHerald you need to have a GitHub account and that's it. Press
+"Log in with GitHub" button. It is used for both - sign-up and sign-in.
 
-![Screenshot showing Login with Github](images/install/login-with-github.png)
+![Screenshot showing Login with GitHub](images/install/login-with-github.png)
 
 ## Choose Account
 
-If it is the first time you are logging-in, Github will ask you to choose an
+If it is the first time you are logging-in, GitHub will ask you to choose an
 account where to install CodeHerald. You can install CodeHerald to more than one
 account by visiting CodeHerald settings later. Meanwhile, this is how the
 sign-up flow looks like:
@@ -26,7 +26,7 @@ yourself.
 ## Review Permissions
 
 CodeHerald does not ask for more permissions than it needs to right now. If
-permissions will change in the future, Github will explicitly ask you to approve
+permissions will change in the future, GitHub will explicitly ask you to approve
 the changes. Meanwhile, CodeHerald needs permissions to add webhooks and execute
 actions, issues and pull requests. Checks and security events are needed for
 upcoming features, and metadata is a mandatory permission.

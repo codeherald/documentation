@@ -27,7 +27,6 @@ webhooks too. However, it comes with some limitations:
    long as webhooks are set-up, regardless if the code changed or not (in fact,
    CodeHerald does not have access to code content at all!)
 3. GitHub Actions have to be duplicated in each repository you work with.
-3. GitHub Actions have to be duplicated in each repository you work with.
    CodeHerald can have one rule that services events from multiple repositories.
 
 Finally, CodeHerald is an MVP and an experiment, looking for its place under the

@@ -5,12 +5,20 @@ To sign-up on CodeHerald you need to have a GitHub account and that's it. Press
 
 ![Screenshot showing Login with GitHub](images/install/login-with-github.png)
 
+GitHub Apps require you to give two sets of permissions: for user (what the app
+can do on behalf of the user) and app (what the app can do itself). If this is
+the first time installing CodeHerald - you will see the screen to authorize user
+permissions first. As shown in the screenshot - the only _User_ level permission
+CodeHerald needs is an email address.
+
+![Screenshot showing user authorization](images/install/authorize.png ':size=400x515')
+
 ## Choose Account
 
-If it is the first time you are logging-in, GitHub will ask you to choose an
-account where to install CodeHerald. You can install CodeHerald to more than one
-account by visiting CodeHerald settings later. Meanwhile, this is how the
-sign-up flow looks like:
+Next step, GitHub will ask you to choose an account where to install CodeHerald
+\- the GitHub App. You can install CodeHerald to more than one account by
+visiting CodeHerald settings later. Meanwhile, this is how the sign-up flow
+looks like:
 
 ![Screenshot showing account choice](images/install/choose-account.png ':size=400x394')
 

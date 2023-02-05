@@ -3,6 +3,11 @@
 CodeHerald is like “if-this-then-that” for GitHub. It listens to events in your
 GitHub repositories and triggers actions, based on the rules you create.
 
+?> Heard of [Phabricator](https://phabricator.com/)? CodeHerald borrowed the
+general idea and part of the name from Phabricator
+[Herald](https://secure.phabricator.com/herald/). Sadly, Phabricator has been
+discontinued on June 1st, 2021.
+
 ## How does it work?
 
 1. Sign-up on CodeHerald with your GitHub account and select repositories
